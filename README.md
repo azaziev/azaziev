@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arif Nur Ramadhan</h1>
-<h3 align="center">Security Researcher · OSINT Enthusiast · Game Security Explorer</h3>
+<h3 align="center">Security Researcher · Reverse Engineering Enthusiast · Game Security Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=azaziev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -31,11 +31,10 @@
 
 > *"Ethical Hengker Wibu Tzy"*
 
-Hello! I'm **Arif Nur Ramadhan**, an 18-year-old **security researcher** and **OSINT enthusiast** from **Palabuhan Ratu, Indonesia** 🇮🇩. Currently studying at **UNIKOM**, I spend most of my time exploring cybersecurity, information gathering, and the inner workings of game security & anti-cheat systems.
+Hello! I'm **Arif Nur Ramadhan**, a 22-year-old **security researcher** and **reverse engineer** from **Palabuhan Ratu, Indonesia** 🇮🇩. Currently studying at **UNIKOM**, I spend most of my time exploring cybersecurity, information gathering, and the inner workings of game security & anti-cheat systems.
 
-- 🌱 I'm currently learning the **OSINT Framework**
 - 🎮 Exploring **game security & anti-cheat research** — understanding how bypasses and protection mechanisms work (for educational purposes)
-- 💬 Ask me about **Security, Bypass & OSINT**
+- 💬 Ask me about **Security, Bypass & Reverse Engineering**
 - ⚡ Fun fact: I love diving into reverse-engineered stuff and figuring out *how things really work*
 
 <hr>
@@ -47,7 +46,7 @@ Hello! I'm **Arif Nur Ramadhan**, an 18-year-old **security researcher** and **O
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![OSINT Research](https://img.shields.io/badge/OSINT%20Research-0e75b6?style=flat)
+![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-0e75b6?style=flat)
 ![Security Research](https://img.shields.io/badge/Security%20Research-555555?style=flat)
 
 <hr>
