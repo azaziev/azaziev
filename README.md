@@ -31,7 +31,7 @@
 
 > *"Ethical Hengker Wibu Tzy"*
 
-Hello! I'm **Arif Nur Ramadhan**, a 22-year-old **security researcher** and **reverse engineer** from **Palabuhan Ratu, Indonesia** 🇮🇩. Currently studying at **UNIKOM**, I spend most of my time exploring cybersecurity, information gathering, and the inner workings of game security & anti-cheat systems.
+Hello! I'm **Arif**, a 22-year-old **security researcher** and **odoo erp developer** from **Palabuhan Ratu, Indonesia** 🇮🇩. Currently studying at **UNIKOM**, I spend most of my time exploring cybersecurity, information gathering, and the inner workings of game security & anti-cheat systems.
 
 - 🎮 Exploring **game security & anti-cheat research** — understanding how bypasses and protection mechanisms work (for educational purposes)
 - 💬 Ask me about **Security, Bypass & Reverse Engineering**
@@ -67,16 +67,6 @@ Hello! I'm **Arif Nur Ramadhan**, a 22-year-old **security researcher** and **re
 
 <hr>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azaziev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=azaziev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azaziev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
-</p>
-
-<hr>
 
 <p align="center">
   <i>"Security is not a product, but a process." — Bruce Schneier</i>
