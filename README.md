@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arif Nur Ramadhan</h1>
 <h3 align="center">Security Researcher · Reverse Engineering Enthusiast · Game Security Explorer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=azaziev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+
 
 <hr>
 
@@ -12,16 +10,10 @@
     <img src="https://img.shields.io/github/followers/azaziev?style=flat&logo=github&label=Followers&color=0e75b6" alt="GitHub followers" />
   </a>
   <a href="https://github.com/azaziev" target="blank">
+    <img src="https://komarev.com/ghpvc/?username=azaziev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+  <a href="https://github.com/azaziev" target="blank">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fazaziev&query=public_repos&label=Public%20Repos&color=0e75b6&style=flat" alt="Public Repos" />
-  </a>
-  <a href="https://arifnoerramadhan.my.id" target="blank">
-    <img src="https://img.shields.io/badge/Website-arifnoerramadhan.my.id-20B2AA?style=flat" alt="Website" />
-  </a>
-  <a href="https://www.instagram.com/arifnoerramadhan" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.youtube.com/@iifrmdn" target="blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
