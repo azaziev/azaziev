@@ -61,7 +61,7 @@ Hello! I'm **Arif**, a 22-year-old **security researcher** and **odoo erp develo
 
 
 <p align="center">
-  <i>"Security is not a product, but a process." — Bruce Schneier</i>
+  <i>"Ngulik ti leuleutik, Ngotektak ti bubudak" — Arif N Ramadhan</i>
   <br>
-  Thanks for stopping by! 💙
+  Thanks for support!
 </p>
