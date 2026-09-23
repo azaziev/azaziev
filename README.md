@@ -23,7 +23,7 @@
 
 > *"Ethical Hengker Wibu Tzy"*
 
-Hello! I'm **Arif**, a 22-year-old **security researcher** and **odoo erp developer** from **Palabuhan Ratu, Indonesia** 🇮🇩. Currently studying at **UNIKOM**, I spend most of my time exploring cybersecurity, information gathering, and the inner workings of game security & anti-cheat systems.
+Hello! I'm **Arif N Ramadhan**, a 22-year-old **security researcher** and **odoo erp developer** from **Palabuhan Ratu, Indonesia** 🇮🇩. Currently studying at **UNIKOM**, I spend most of my time exploring cybersecurity, information gathering, and the inner workings of game security & anti-cheat systems.
 
 - 🎮 Exploring **game security & anti-cheat research** — understanding how bypasses and protection mechanisms work (for educational purposes)
 - 💬 Ask me about **Security, Bypass & Reverse Engineering**
