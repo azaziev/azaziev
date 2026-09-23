@@ -17,10 +17,10 @@
   <a href="https://arifnoerramadhan.my.id" target="blank">
     <img src="https://img.shields.io/badge/Website-arifnoerramadhan.my.id-20B2AA?style=flat" alt="Website" />
   </a>
-  <a href="https://twitter.com/arifnrrmdhn" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white" alt="Twitter" />
+  <a href="https://www.instagram.com/arifnoerramadhan" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.youtube.com/channel/UCqIlRGBsx7NBOoeeFIIp4QQ" target="blank">
+  <a href="https://www.youtube.com/@iifrmdn" target="blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white" alt="YouTube" />
   </a>
 </p>
@@ -54,10 +54,10 @@ Hello! I'm **Arif**, a 22-year-old **security researcher** and **odoo erp develo
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://twitter.com/arifnrrmdhn" target="blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white" alt="Twitter" />
+  <a href="https://www.instagram.com/arifnoerramadhan" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.youtube.com/channel/UCqIlRGBsx7NBOoeeFIIp4QQ" target="blank">
+  <a href="https://www.youtube.com/@iifrmdn" target="blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://arifnoerramadhan.my.id" target="blank">
